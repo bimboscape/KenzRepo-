@@ -4,5 +4,5 @@ num2 = int(32)
 num3 = float(1.8)
 thanks = ('thank you so much for feeding me the numbers!')
 sum = num1 * num3 + num2
-print(f"{num1}°f is {sum} in fehrenheit!")
+print(f"{num1}°c is {sum} in fehrenheit!")
 print(thanks.upper())
