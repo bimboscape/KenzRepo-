@@ -9,7 +9,7 @@ thanks = ('thank you so much for feeding me the numbers!', 'MMMM numbers :3')
 
 sum = num1 * num3 + num2
 
-print(f"{num1}°f is {sum} in fehrenheit!")
+print(f"{num1}°c is {sum} in fehrenheit!")
 
 random_item = random.choice(thanks)
 print("uwu", random_item)
