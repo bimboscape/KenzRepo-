@@ -1,4 +1,7 @@
-!/bin/bash
+#!/bin/bash
+
+#This script automates the updating and upgrading process
+
 sep="---------------------"
 echo $sep
 echo "Upgrade list"
