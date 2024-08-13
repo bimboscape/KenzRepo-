@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 sep="---------------------"
 echo $sep
 echo "Upgrade list"
