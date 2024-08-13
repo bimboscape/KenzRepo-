@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#This script automates the updating and upgrading process
+
 sep="-----------------------------"
 wel="Thank you for using Kenzie's upgrade script"
 exit="Please enjoy your newly upgraded OS!"
